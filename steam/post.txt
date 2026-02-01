@@ -1,0 +1,104 @@
+[h1]UnHacknetJam[/h1]
+
+An unofficial Hacknetjam focused on the vanilla game.
+
+[h2]What is this?[/h2]
+
+This jam is a personal initiative by [url=https://steamcommunity.com/id/bovinebeta]FBIK.[/url] to champion a distinct design philosophy for Hacknet Extensions:
+
+[b]Powerful, innovative experiences can also be forged strictly within Vanilla Hacknet’s constraints[/b]
+
+We operate on the belief that true creativity emerges from limitations, and thrives in a space of exploration rather than crunch.
+
+[h2]Goal[/h2]
+
+To encourage Hacknet Extension developers to explore creation from a fresh perspective:
+
+[b]Unleash the potential of Hacknet Extensions.[/b]
+
+[h2]Timeline &amp; Participation[/h2]
+
+[h3]Core Event: A 1-Month Creative Cycle[/h3]
+
+A generous month-long period designed for thoughtful experimentation and iteration. The emphasis is on [b]sustainable creation, free from time pressure.[/b]
+
+[h3]Ongoing Creative Challenge[/h3]
+
+The [b]creative prompt[/b] revealed at the start of the cycle remains an open invitation. We welcome and encourage creations inspired by it [b]at any time, even after the core event concludes.[/b]
+
+[h2]The Challenge[/h2]
+
+[b]Actions are restricted for use![/b]
+
+[list]
+  [*] You may use the following [b]only as StartingActions[/b], and their condition must be [code]OnConnect target="playerComp"[/code]: AddAsset, AppendToFile, DeleteFile, CopyAsset
+  [*] You may use the following freely: ShowNode, RunFunction, StartScreenBleedEffect, CancelScreenBleedEffect, SaveGame, HideNode, HideAllNodes, GivePlayerUserAccount
+[/list]
+
+[b]You may NOT use any mods or tools that alter how Hacknet runs[/b]
+
+Exceptions:
+
+[list]
+  [*] [url=https://github.com/fengxu-30338/HacknetChineseSupport]fengxu-30338/HacknetChineseSupport[/url] (essentially a Pathfinder mod to use custom fonts) but you can not open the MultiColorFontParse.
+  [*] [url=https://github.com/fengxu-30338/HacknetFontReplace]fengxu-30338/HacknetFontReplace[/url] New Version of HacknetChineseSupport, but you can not open the MultiColorFontParse.
+  [*] Any tools installed locally for development assistance that are not required for players to use. (e.g., [url=https://github.com/AutumnRivers/HacknetThemeEditor]AutumnRivers/HacknetThemeEditor[/url])
+[/list]
+
+[h2]Dates[/h2]
+
+The core 1-month creative cycle is currently planned for [b]February 2026[/b].
+
+[i]The creative challenge itself has no deadline.[/i]
+
+[h2]Rules[/h2]
+
+[list]
+  [*] You shoud strictly follow [b]The Challenge[/b].
+  [*] All entries must comply with [url=https://www.hacknet-os.com/Support/CodeOfConduct.txt]the Hacknet Community Code of Conduct[/url]. Use only assets you have the right to use, and be respectful to others.
+  [*] You are encouraged to form teams and collaborate on submissions.
+  [*] To keep the spirit of the jam fresh, any extension submitted before the jam prompt is revealed is not eligible for the jam timeline highlights.
+  [*] To ensure a fair and consistent review process for all participants, please do not update your Workshop submission after the 1-month event concludes. If you wish to continue developing your extension, we encourage you to create a new Workshop item for the updated version.
+  [*] Please show your email on the workshop description. It will be used to the Judgement of Community's Choice Highlights.
+[/list]
+
+[h2]Participate[/h2]
+
+[h3]For the Core 1-Month Event[/h3]
+
+To be included in the jam timeline highlights, extensions must be uploaded to the Steam Workshop [b]within the 1-month window[/b] and tagged with [code]#UnHacknetJam2026[/code].
+
+You are welcome to iterate on your submission throughout the month. It is meant to encourage exploration, polish, and a healthy pace. Focus on a complete, solid idea rather than an overly ambitious scope.
+
+[h3]For the Ongoing Creative Challenge[/h3]
+
+The creative prompt remains open for interpretation indefinitely.
+Simply use the [code]#UnHacknetJam2026[/code] tag on Steam Workshop whenever you finish! We may feature late submissions in future community highlights.
+
+[h2]Recognition &amp; Community[/h2]
+
+After the core event, we will celebrate the work in two ways:
+
+[list]
+  [*] [b]Community's Choice Highlights:[/b] A curated list of extensions that received the most positive feedback and plays from fellow participants.
+  [*] [b]Host's Selection Highlights:[/b] A separate list of extensions that, in the host's view, most compellingly explore or demonstrate the jam's core design philosophy.
+[/list]
+
+The purpose is to showcase diverse approaches and spark discussion.
+
+[h2]Judgement[/h2]
+
+Participants are encouraged to rate and provide constructive feedback on each other's work. See [url=https://jam.hacknet.wiki/#judgement]jam.hacknet.wiki/#judgement[/url] for more details.
+
+Don't forget to show your email on the workshop description. It will be used to the Judgement of Community's Choice Highlights.
+
+[h2]Communication[/h2]
+
+QQ Group: [url=https://qm.qq.com/q/Nt9NAHRMKm]940056115[/url]
+
+Also you can leave comments on this post.
+
+[h2]More Detail[/h2]
+
+See [url=https://jam.hacknet.wiki]jam.hacknet.wiki[/url].
+

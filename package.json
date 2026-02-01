@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@bscotch/steam-bbcode": "^0.4.0",
+    "prettier": "^3.8.1",
+    "vitepress": "^2.0.0-alpha.16"
+  },
+  "dependencies": {
+    "@catppuccin/vitepress": "^0.1.2"
+  }
+}
