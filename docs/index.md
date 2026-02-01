@@ -61,6 +61,9 @@ _The creative challenge itself has no deadline._
 - To ensure a fair and consistent review process for all participants, please do not update your Workshop submission after the 1-month event concludes. If you wish to continue developing your extension, we encourage you to create a new Workshop item for the updated version.
 - Please show your email on the workshop description. It will be used to the Judgement of Community's Choice Highlights.
 
+> [!NOTE] 2026-02-01 PS:
+> Email is used to receive voting link. If you don't want to use email, show your Discord Username or write that you want to use steam to receive(I'll try to add you) in description are Ok too.
+
 ## Participate
 
 ### For the Core 1-Month Event
@@ -99,6 +102,9 @@ If you wish to rate other entries, please assess them on the following aspects (
 A dedicated method for submitting community ratings during the core event will be provided closer to or during the event.
 
 Don't forget to show your email on the workshop description. It will be used to the Judgement of Community's Choice Highlights.
+
+> [!NOTE] 2026-02-01 PS:
+> Email is used to receive voting link. If you don't want to use email, show your Discord Username or write that you want to use steam to receive(I'll try to add you) in description are Ok too.
 
 ### Host's Selection Highlights
 
