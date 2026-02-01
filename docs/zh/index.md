@@ -35,7 +35,8 @@
 - 以下Actions**仅可用作StartingActions**，而且它们的条件必须是 `OnConnect target="playerComp"`：AddAsset, AppendToFile, DeleteFile, CopyAsset
 - 以下Actions可自由使用：ShowNode, RunFunction, StartScreenBleedEffect, CancelScreenBleedEffect, SaveGame, HideNode, HideAllNodes, GivePlayerUserAccount
 
-未提及的 Action 均不可用！
+> [!NOTE] 2026-02-01 注：
+> 未提及的 Action 均不可用！
 
 **禁止使用任何模组或工具来改变 Hacknet 的运行方式**
 

@@ -35,7 +35,8 @@ The **creative prompt** revealed at the start of the cycle remains an open invit
 - You may use the following **only as StartingActions**, and their condition must be `OnConnect target="playerComp"`: AddAsset, AppendToFile, DeleteFile, CopyAsset
 - You may use the following freely: ShowNode, RunFunction, StartScreenBleedEffect, CancelScreenBleedEffect, SaveGame, HideNode, HideAllNodes, GivePlayerUserAccount
 
-All other Actions not mentioned are banned!
+> [!NOTE] 2026-02-01 PS:
+> All other Actions not mentioned are banned!
 
 **You may NOT use any mods or tools that alter how Hacknet runs**
 
